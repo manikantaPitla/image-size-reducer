@@ -1,0 +1,14 @@
+{
+  "name": "image-size-reducer",
+  "version": "1.0.2",
+  "description": "A utility to reduce the quality of images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "image-size-reducer",
+  "sharp",
+  "thumbnail"],
+  "author": "Manikanta Pitla",
+  "license": "MIT"
+}
